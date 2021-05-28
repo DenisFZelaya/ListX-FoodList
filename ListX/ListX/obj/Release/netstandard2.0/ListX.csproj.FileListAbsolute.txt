@@ -1,0 +1,16 @@
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\bin\Release\netstandard2.0\ListX.deps.json
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\bin\Release\netstandard2.0\ListX.dll
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\bin\Release\netstandard2.0\ref\ListX.dll
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\bin\Release\netstandard2.0\ListX.pdb
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\obj\Release\netstandard2.0\Views\FoodDetailPage.xaml.g.cs
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\obj\Release\netstandard2.0\Views\MyListPage.xaml.g.cs
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\obj\Release\netstandard2.0\ListX.AssemblyInfoInputs.cache
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\obj\Release\netstandard2.0\ListX.AssemblyInfo.cs
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\obj\Release\netstandard2.0\ListX.csproj.CoreCompileInputs.cache
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\obj\Release\netstandard2.0\ListX.dll
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\obj\Release\netstandard2.0\ref\ListX.dll
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\obj\Release\netstandard2.0\ListX.pdb
+C:\Users\dzelaya\source\repos\ListX\ListX\ListX\obj\Release\netstandard2.0\ListX.csproj.AssemblyReference.cache
